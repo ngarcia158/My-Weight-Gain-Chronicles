@@ -12,6 +12,7 @@ body{
     box-shadow: rgb(31, 31, 31) 8px 15px 25px, rgb(31, 31, 31) -8px -15px 25px;
    
 }
+<<<<<<< HEAD
 p{
     padding: 10px 10px 10px 10px;
 }
@@ -50,3 +51,5 @@ div{
     padding-bottom: 5px;
     align-content: bottom; 
  }
+=======
+>>>>>>> master

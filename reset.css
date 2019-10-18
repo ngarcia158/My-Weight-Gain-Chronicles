@@ -11,6 +11,27 @@
    Filename: pc_reset.css
 
 */
+@font-face{
+   font-family: Simple;
+   src: url(simple.ttf) format('truetype'),
+        url(simple.woff) format('woff'),
+        url(simple.woff2) format('woff2');
+}
+@font-face{
+   font-family: Vegan;
+   src: url(vegan.ttf) format('truetype'),
+        url(vegan.woff) format('woff'),
+        url(vegan.woff2) format('woff2');
+}
+@font-face{
+   font-family: Clear;
+   src: url(clear.ttf) format('truetype'),
+        url(clear.woff) format('woff'),
+        url(clear.woff2) format('woff2');
+}
+h1{ 
+   font-family: 'Simple', sans-serif;
+}
 
 article, aside, figcaption, figure,
 footer, header, main, nav, section { 
@@ -43,4 +64,5 @@ nav a {
 
 body {
    line-height: 1;
+   font-family: 'Clear', sans-serif;
 }
