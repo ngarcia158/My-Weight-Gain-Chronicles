@@ -1,1 +1,7 @@
 @charset "utf-8";
+div{
+    outline-width: 1px;
+    outline-style: solid;
+    outline-color: red;
+    outline: 1px solid red;
+ }
