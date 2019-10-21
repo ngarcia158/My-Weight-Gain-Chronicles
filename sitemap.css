@@ -1,1 +1,21 @@
 @charset "utf-8";
+
+body{
+    margin-left: 80px;
+    margin-right:50px;
+}
+h1{
+    font-size: 30px;
+}
+figcaption{
+    text-align: center;
+    font-size: 50px;
+}
+figure img{
+    border-width: 6px;
+    border-color: rgb(52, 151, 143);
+    border-style: double;
+    border-radius: 25px;
+    box-shadow: rgb(52, 151, 143) 0px 0px 15px;
+
+}
