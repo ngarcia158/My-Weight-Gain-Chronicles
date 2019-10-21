@@ -23,6 +23,11 @@ h2{
 .row{
     margin-right: 20px;
     margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+div.col-1-2{
+    height: 200px
 }
 img{
     display: block;
@@ -33,14 +38,25 @@ body h1#title{
     left: 36%;
     font-size: 30px;
 }
-
-div{
-    outline-width: 1px;
-    outline-style: solid;
-    outline-color: red;
-    outline: 1px solid red;
- }
-
+a{
+    text-decoration: none;
+}
+section{
+    text-align: center;
+    background-color: black;
+}
+#submition{
+    background:rgb(0, 255, 234)
+}
+section#submition{
+    height: 80px;
+    padding-top: 20px; 
+    place-content: center;
+    background-color: black;
+}
+img#sitemap{
+    display: inline-block;
+}
  
  footer{
     margin-top: 25px;
@@ -50,4 +66,5 @@ div{
     padding-top: 7px;
     padding-bottom: 5px;
     align-content: bottom; 
+    font-weight: bold;
  }
