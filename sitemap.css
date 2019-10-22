@@ -2,6 +2,7 @@
 
 h1{
     font-size: 30px;
+    text-align: center;
 }
 body{
     background: linear-gradient(to bottom right, rgb(251, 227,183), rgb(255,255,240)); 
@@ -49,3 +50,4 @@ footer{
     align-content: bottom; 
     font-weight: bold;
  }
+ 
