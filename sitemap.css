@@ -1,11 +1,16 @@
 @charset "utf-8";
 
-body{
-    margin-left: 80px;
-    margin-right:50px;
-}
 h1{
     font-size: 30px;
+}
+body h1#title{
+    position: absolute;
+    top: 23px;
+    left: 36%;
+    font-size: 30px;
+}
+img{
+    display: block;
 }
 figcaption{
     text-align: center;
@@ -19,3 +24,25 @@ figure img{
     box-shadow: rgb(52, 151, 143) 0px 0px 15px;
 
 }
+html{
+    background-color: #215e21 
+}
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-shadow: rgb(31, 31, 31) 8px 15px 25px, rgb(31, 31, 31) -8px -15px 25px;
+    background-color: rgb(251, 227,183);
+}
+footer{
+    margin-top: 25px;
+    text-align: center;
+    background-color: rgb(52, 151, 143);
+    height: 35px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    align-content: bottom; 
+    font-weight: bold;
+ }
