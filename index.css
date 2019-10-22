@@ -10,7 +10,7 @@ body{
     margin-top: 0px;
     margin-bottom: 0px;
     box-shadow: rgb(31, 31, 31) 8px 15px 25px, rgb(31, 31, 31) -8px -15px 25px;
-    background-color: rgb(251, 227,183);
+    background: linear-gradient(to bottom right, rgb(251, 227,183), rgb(255,255,240)); 
 }
 
 p{
@@ -50,7 +50,7 @@ a{
 }
 section{
     text-align: center;
-    background-color: black;
+   
 }
 #submition{
     padding-left: 30px
@@ -59,7 +59,7 @@ section#submition{
     height: 80px;
     padding-top: 20px; 
     place-content: center;
-    background-color: black;
+    
 }
 img#sitemap{
     display: inline-block;
