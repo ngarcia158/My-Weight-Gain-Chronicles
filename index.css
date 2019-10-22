@@ -80,7 +80,7 @@ a{
     font-weight: bold;
 }
 img#Foods{
-    margin-left: 40px;
+    transform: translateX(40px);
     border-width: 6px;
     border-color: rgb(52, 151, 143);
     border-style: double;
