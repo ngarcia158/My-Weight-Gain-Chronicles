@@ -7,6 +7,15 @@ body{
 h1{
     font-size: 30px;
 }
+body h1#title{
+    position: absolute;
+    top: 23px;
+    left: 36%;
+    font-size: 30px;
+}
+img{
+    display: block;
+}
 figcaption{
     text-align: center;
     font-size: 50px;
