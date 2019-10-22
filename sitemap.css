@@ -3,6 +3,9 @@
 h1{
     font-size: 30px;
 }
+body{
+    background: linear-gradient(to bottom right, rgb(251, 227,183), rgb(255,255,240)); 
+}
 body h1#title{
     position: absolute;
     top: 23px;
