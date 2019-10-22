@@ -10,11 +10,15 @@ body{
 body h1#title{
     position: absolute;
     top: 23px;
-    left: 36%;
+    left: 38%;
     font-size: 30px;
 }
 img{
     display: block;
+}
+img#logo{
+    position: relative;
+    transform: translateX(-20px)
 }
 figcaption{
     text-align: center;
@@ -27,7 +31,8 @@ figure img{
     border-radius: 25px;
     box-shadow: rgb(52, 151, 143) 0px 0px 15px;
 
-}
+} 
+
 html{
     background-color: #215e21 
 }
@@ -39,6 +44,7 @@ body{
     margin-bottom: 0px;
     box-shadow: rgb(31, 31, 31) 8px 15px 25px, rgb(31, 31, 31) -8px -15px 25px;
     background-color: rgb(251, 227,183);
+    padding-left: 15px;
 }
 footer{
     margin-top: 25px;
