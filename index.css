@@ -80,7 +80,7 @@ a{
     font-weight: bold;
 }
 img#Foods{
-    margin-left: 40px;
+    transform: translateX(40px);
     border-width: 6px;
     border-color: rgb(52, 151, 143);
     border-style: double;
@@ -93,4 +93,11 @@ img#sitemap{
     border-style: double;
     border-radius: 25px;
     box-shadow: rgb(52, 151, 143) 0px 0px 15px;
+}
+section#info{
+    border-width: 6px;
+    border-color: black;
+    border-style: double;
+    border-radius: 25px;
+    box-shadow: black 0px 0px 15px;
 }
